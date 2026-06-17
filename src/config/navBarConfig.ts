@@ -26,7 +26,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			// 分类
 			LinkPreset.Categories,
 			// 标签
-			LinkPreset.Tags,
+			// LinkPreset.Tags,
 		],
 	});
 
