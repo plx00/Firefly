@@ -3,7 +3,7 @@ title: "Git 使用教程"
 published: 2026-04-28
 updated: 2026-04-28
 description: git 使用教程及常用命令，自用
-image: /src/assets/images/cover.avif
+image: /assets/bolg_cover/git-use.webp
 tags: [Git]
 category: fqzlr
 draft: false
@@ -46,12 +46,11 @@ git config user.email
 git config --list
 ```
 
-- Windows 执行 `npmp dev`速率加快，
+- Windows 执行 `pnpm dev`速率加快，
+  - 方案 1：项目目录加入杀毒排除（见效最明显）
+    - `设置 → 隐私和安全性 → Windows Defender 防火墙 → 病毒和威胁防护 → 管理设置 → 添加或删除排除项`
+    - 添加：你的项目文件夹`C:\Users\K-ON\.pnpm-store`，排除后读写速度大幅提升。
 
-​	方案 1：项目目录加入杀毒排除（见效最明显）
-​	`设置 → 隐私和安全性 → Windows Defender 防火墙 → 病毒和威胁防护 → 管理设置 → 添加或删除排除项`
-​	添加：你的项目文件夹`C:\Users\K-ON\.pnpm-store`
-​	排除后读写速度大幅提升。
 
 # 一、Git 前期准备（必做）
 
