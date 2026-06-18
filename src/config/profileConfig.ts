@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "Susie",
 
 	// 个人签名
-	bio: "戴金边眼镜的观众",
+	bio: "戴金丝眼镜的观众",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
