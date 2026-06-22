@@ -49,7 +49,10 @@ export default function rehypeFigure() {
 				h("img", {
 					...imgProps,
 				}),
-				h("figcaption", alt),
+				
+				// alt 文本作为 figcaption 的内容，居中显示
+				// h("figcaption", alt),
+
 			]);
 
 			// 居中显示
