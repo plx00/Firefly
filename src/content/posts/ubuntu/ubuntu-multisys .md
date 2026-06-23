@@ -54,7 +54,7 @@ DiskGenius 软件 ：https://pan.quark.cn/s/274b121b3814
 
 ## a. Ubuntu 系统下载
 
-到[Ubuntu](https://releases.ubuntu.com/)官网找到自己想要的版本
+到[Ubuntu](https://releases.ubuntu.com/)官网找到自己想要的版本。
 
 <img src="https://vip.123pan.cn/1831996731/a_PicBed/ubuntu/ubuntu-multisys/20260623104409253.webp" alt="1774882317396-73ab35da-2f71-440a-820e-fb42714e9530" style="zoom:150%;" />
 
