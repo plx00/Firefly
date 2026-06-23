@@ -1,6 +1,7 @@
 ---
 title: Ubuntu 多系统
 published: 2026-04-07
+updated: 2026-04-07
 description: Ubuntu 多系统搭建
 image: /assets/bolg_cover/ubuntu-multisys.webp
 tags: [Ubuntu, 多系统, 硬盘]

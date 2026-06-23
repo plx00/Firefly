@@ -1,6 +1,7 @@
 ---
 title: Ubuntu 镜像
 published: 2026-04-08
+updated: 2026-04-08
 description: 各种 Ubuntu 镜像下载地址
 image: /assets/bolg_cover/ubuntu-mirror.webp
 tags: [Ubuntu, 镜像, 多平台]
