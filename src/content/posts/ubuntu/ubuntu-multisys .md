@@ -121,7 +121,7 @@ DiskGenius 软件 ：https://pan.quark.cn/s/274b121b3814
 
 整体安装步骤与常规硬盘安装基本一致，此处不再赘述制作启动盘、BIOS 选择 U 盘启动等通用操作，仅重点说明系统分区相关的关键配置。  
 
-## b. Ubuntu 22.04 
+## b. Ubuntu 22.04
 
 1. 简体中文安装
    ![1775029276767-98a2f170-fa79-4bec-9fc6-47501026827e](https://vip.123pan.cn/1831996731/a_PicBed/ubuntu/ubuntu-multisys/20260623111229950.webp)
@@ -167,7 +167,7 @@ DiskGenius 软件 ：https://pan.quark.cn/s/274b121b3814
 
 ## c. Ubuntu 20.04
 
-参考  **b. Ubuntu 22.04**
+参考 **[b. Ubuntu 22.04](#b-ubuntu-2204)**
 
 
 
@@ -194,7 +194,7 @@ DiskGenius 软件 ：https://pan.quark.cn/s/274b121b3814
 
 ## d. Ubuntu 18.04
 
-参考 **b. Ubuntu 22.04  / c. Ubuntu 20.04** 
+参考 **[b. Ubuntu 22.04](#b-ubuntu-2204)/[c. Ubuntu 20.04](#c-ubuntu-2004)**
 
 ### i. 安装系统
 
@@ -339,7 +339,7 @@ quiet splash $vt_handoff nomodeset nouveau.modeset=0
 但在实际启动菜单中，Ubuntu 18.04 并未单独列出，原因是**默认第一项的 “Ubuntu” 即为 Ubuntu 18.04**，另外两个系统版本则正常显示在列表中。用户可根据需要在 GRUB 菜单中选择对应系统启动。  
 ![1775038450220-1fa8b165-f3df-4dde-96bc-1986ecf12a2b](https://vip.123pan.cn/1831996731/a_PicBed/ubuntu/ubuntu-multisys/20260623120003227.webp)
 
-经过 下面的章节 **boot-repair** 修复过后，启动引导项有所变化，但基本不变
+经过 下面的章节 **[5. boot-repair](#5-boot-repair)** 修复过后，启动引导项有所变化，但基本不变
 
 ![1775098985847-06a2a661-6938-462c-be16-139f3661398d](https://vip.123pan.cn/1831996731/a_PicBed/ubuntu/ubuntu-multisys/20260623120016478.webp)
 
