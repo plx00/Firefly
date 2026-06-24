@@ -455,8 +455,8 @@ CSDN（md文件内容）查看：https://blog.csdn.net/selectDele/article/detail
 ### ii.文档
 
 - **学习文档-狂神说**
-  - [Docker上](https://1831996731.share.123pan.cn/123pan/wdzVjv-SnTyv?)
-  - [Docker下](https://1831996731.share.123pan.cn/123pan/wdzVjv-EaQyv?)
+  - [Docker上](https://1831996731.share.123pan.cn/123pan/wdzVjv-sKz6v)
+  - [Docker下](https://1831996731.share.123pan.cn/123pan/wdzVjv-j2ryv)
 
 ### iii. Nginx镜像的安装
 
