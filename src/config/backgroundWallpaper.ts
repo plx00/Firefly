@@ -50,6 +50,10 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			"assets/images/DesktopWallpaper/b3.webp",
 			"assets/images/DesktopWallpaper/b4.webp",
 			"assets/images/DesktopWallpaper/b5.webp",
+			"assets/images/DesktopWallpaper/b6.webp",
+			"assets/images/DesktopWallpaper/b7.webp",
+			"assets/images/DesktopWallpaper/b8.webp",
+			"assets/images/DesktopWallpaper/b9.webp",
 		
 		],
 		// 移动背景图片（支持单张或多张随机）
