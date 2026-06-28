@@ -1,7 +1,7 @@
 ---
 title: CAN 卡调试
-published: 2026-06-25
-updated: 2026-06-25
+published: 2026-03-20
+updated: 2026-03-20
 description: CAN 卡驱动、调试、资料
 image: /assets/bolg_cover/can-card-use.webp
 tags: [CAN, 调试, 快速体验]
