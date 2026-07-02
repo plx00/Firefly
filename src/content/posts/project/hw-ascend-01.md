@@ -30,6 +30,8 @@ passwordHint: ""
   - **[产品简介-产品介绍-Atlas 200I DK A2开发者套件23.0.RC3开发文档-昇腾社区 (hiascend.com)](https://www.hiascend.com/document/detail/zh/Atlas200IDKA2DeveloperKit/23.0.RC2/pd/pd_0001.html)**
 - **默认管理员密码**
   - `Mind@123`
+- **书签**
+  - [华为系统板参考网站书签.html](https://1831996731.cdn.123clouddisk.com/1831996731/a_PicBed/project/hw-ascend-01/%E5%8D%8E%E4%B8%BA%E7%B3%BB%E7%BB%9F%E6%9D%BF%E5%8F%82%E8%80%83%E7%BD%91%E7%AB%99%E4%B9%A6%E7%AD%BE.html)
 
 以下内容基本基于官方文档
 
