@@ -45,11 +45,14 @@ Frp（Fast Reverse Proxy）一个轻量级、开源的**内网穿透反向代理
   -  [frp下载地址（Github）](https://github.com/fatedier/frp/releases) 
   - [frp下载地址（Gitcode）](https://gitcode.com/gh_mirrors/fr/frp/releases?utm_source=csdn_github_accelerator&isLogin=1) 
 
-- **`参考网址`**
+- **参考网址**
   - [FRP + NoMachine远程桌面开发指南](https://blog.csdn.net/qq_42688495/article/details/124210168) 
   - [frp内网穿透实现远程桌面控制（保姆级教程）](https://gitcode.csdn.net/65eeddae1a836825ed7a08e2.html?dp_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzQ3MzY3LCJleHAiOjE3MjExODg3MTcsImlhdCI6MTcyMDU4MzkxNywidXNlcm5hbWUiOiJjeTEwMDEwIn0.vxRxXoxtbzW2kOb0qR94U41pFrY5rHqacq1SYvBGVMI) 
   - [frp+nomachine部署](https://www.cnblogs.com/amorfati/p/17929033.html) 
   - [FRP 内网穿透 | 实现远程访问与安全管理](https://blog.csdn.net/qq_39517117/article/details/139639530?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522172110828616800186539653%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=172110828616800186539653&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-139639530-null-null.142^v100^pc_search_result_base6&utm_term=frp%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F&spm=1018.2226.3001.4187)  
+- **配置好的**
+  - [frp.zip(11.3 MB)](https://1831996731.share.123pan.cn/123pan/wdzVjv-psryv)
+
 
 ## a. 文件配置
 
